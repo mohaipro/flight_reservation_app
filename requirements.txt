@@ -1,0 +1,4 @@
+# No external libraries required
+# Built-in: tkinter, sqlite3
+# This file is intentionally left empty as no external libraries are needed.
+# If you need to add any external libraries in the future, list them here.
